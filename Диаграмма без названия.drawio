@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T15:04:59.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="C92OK3gzlbDzSWZ7xboh" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T15:08:58.033Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="RO1RtBTLcM_ktJp1MQ5w" version="24.6.4" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="751" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,23 +52,50 @@
         <mxCell id="vuiF-W3b4HiU27TmscNX-4" value="Сброс пароля" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="540" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vuiF-W3b4HiU27TmscNX-5" value="" style="endArrow=classic;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;targetPerimeterSpacing=0;endFill=1;" edge="1" parent="1" source="vuiF-W3b4HiU27TmscNX-1" target="vuiF-W3b4HiU27TmscNX-2">
+        <mxCell id="vuiF-W3b4HiU27TmscNX-5" value="" style="endArrow=classic;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;targetPerimeterSpacing=0;endFill=1;entryPerimeter=0;" edge="1" parent="1" source="vuiF-W3b4HiU27TmscNX-2" target="vuiF-W3b4HiU27TmscNX-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="390" as="sourcePoint" />
             <mxPoint x="340" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vuiF-W3b4HiU27TmscNX-6" value="" style="endArrow=classic;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.017;entryY=0.375;entryDx=0;entryDy=0;targetPerimeterSpacing=0;endFill=1;exitX=0.975;exitY=0.725;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="vuiF-W3b4HiU27TmscNX-1" target="vuiF-W3b4HiU27TmscNX-4">
+        <mxCell id="vuiF-W3b4HiU27TmscNX-6" value="" style="endArrow=classic;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.975;entryY=0.713;entryDx=0;entryDy=0;targetPerimeterSpacing=0;endFill=1;entryPerimeter=0;" edge="1" parent="1" source="vuiF-W3b4HiU27TmscNX-4" target="vuiF-W3b4HiU27TmscNX-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="518" as="sourcePoint" />
             <mxPoint x="300" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vuiF-W3b4HiU27TmscNX-7" value="*include*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;" vertex="1" parent="1">
+        <mxCell id="vuiF-W3b4HiU27TmscNX-7" value="*extend*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="220" y="460" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vuiF-W3b4HiU27TmscNX-8" value="*include*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=15;" vertex="1" parent="1">
+        <mxCell id="vuiF-W3b4HiU27TmscNX-8" value="*extend*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=15;" vertex="1" parent="1">
           <mxGeometry x="240" y="520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vuiF-W3b4HiU27TmscNX-9" value="Выбор убежища" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="303" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vuiF-W3b4HiU27TmscNX-10" value="Просмотр навыков" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="303" y="830" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vuiF-W3b4HiU27TmscNX-11" value="" style="endArrow=classic;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.033;entryY=0.638;entryDx=0;entryDy=0;targetPerimeterSpacing=0;endFill=1;entryPerimeter=0;exitX=0.9;exitY=0.238;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vuiF-W3b4HiU27TmscNX-15" target="vuiF-W3b4HiU27TmscNX-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="800" as="sourcePoint" />
+            <mxPoint x="223" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vuiF-W3b4HiU27TmscNX-12" value="" style="endArrow=classic;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;targetPerimeterSpacing=0;endFill=1;exitX=0.908;exitY=0.875;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vuiF-W3b4HiU27TmscNX-15" target="vuiF-W3b4HiU27TmscNX-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="870" as="sourcePoint" />
+            <mxPoint x="220" y="837" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vuiF-W3b4HiU27TmscNX-15" value="Выбор аватара" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="790" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vuiF-W3b4HiU27TmscNX-16" value="*include*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="220" y="750" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vuiF-W3b4HiU27TmscNX-17" value="*include*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="820" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
